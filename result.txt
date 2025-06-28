@@ -1,65 +1,65 @@
 RY.TO
- Number of shares: $911713.21
- Current Value: $162011434.50
+ Number of shares: 911713.13
+ Current Value: $162011420.22
 MFC.TO
- Number of shares: $3449233.91
- Current Value: $151179928.46
+ Number of shares: 3449234.20
+ Current Value: $151179941.52
 CM.TO
- Number of shares: $1668843.96
+ Number of shares: 1668843.96
  Current Value: $159474724.32
 SLF-PC.TO
- Number of shares: $6957606.24
- Current Value: $142770083.21
+ Number of shares: 6957606.92
+ Current Value: $142770097.16
 TRP.TO
- Number of shares: $1873936.96
+ Number of shares: 1873936.96
  Current Value: $125553776.44
 TD.TO
- Number of shares: $1498446.48
- Current Value: $149020498.03
+ Number of shares: 1498446.63
+ Current Value: $149020512.76
 TRI.TO
- Number of shares: $459466.27
+ Number of shares: 459466.27
  Current Value: $124584276.12
 ENB.TO
- Number of shares: $1654353.92
+ Number of shares: 1654353.92
  Current Value: $101577333.23
 BNS.TO
- Number of shares: $1491217.42
- Current Value: $112079906.74
+ Number of shares: 1491217.57
+ Current Value: $112079917.77
 BMO.TO
- Number of shares: $731449.02
- Current Value: $109395513.30
+ Number of shares: 731449.10
+ Current Value: $109395526.09
 SU.TO
- Number of shares: $1735619.68
- Current Value: $89314987.02
+ Number of shares: 1735619.55
+ Current Value: $89314980.70
 NA.TO
- Number of shares: $673667.21
- Current Value: $94070889.04
+ Number of shares: 673667.14
+ Current Value: $94070878.50
 BCE.TO
- Number of shares: $2130975.03
- Current Value: $63694842.43
+ Number of shares: 2130974.80
+ Current Value: $63694835.55
 T.TO
- Number of shares: $2488791.09
+ Number of shares: 2488791.09
  Current Value: $53956991.53
 L.TO
- Number of shares: $162877.12
+ Number of shares: 162877.12
  Current Value: $36416067.59
 TA.TO
- Number of shares: $1516725.29
+ Number of shares: 1516725.29
  Current Value: $22189691.18
 CIX.TO
- Number of shares: $598679.96
+ Number of shares: 598679.96
  Current Value: $18924274.00
 X.TO
- Number of shares: $375922.31
+ Number of shares: 375922.31
  Current Value: $21292239.42
 SOBO.TO
- Number of shares: $361874.60
+ Number of shares: 361874.60
  Current Value: $12861023.72
 AGF-B.TO
- Number of shares: $1007494.23
+ Number of shares: 1007494.23
  Current Value: $13319073.96
 EMA.TO
- Number of shares: $70440.92
+ Number of shares: 70440.92
  Current Value: $4338456.26
 Cash
  Current Value: $176165522.00

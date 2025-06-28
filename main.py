@@ -31,7 +31,7 @@ for ticker in config.stock_dict.keys():
     value = shares * float(df_now[ticker].iloc[0])
 
     current_worth += value
-    result_file.write(str(ticker) + "\n Number of shares: $" + "{:.2f}".format(round(shares,2)) + "\n Current Value: $" + "{:.2f}".format(round(value,2)) + "\n")
+    result_file.write(str(ticker) + "\n Number of shares: " + "{:.2f}".format(round(shares,2)) + "\n Current Value: $" + "{:.2f}".format(round(value,2)) + "\n")
 
 # Consider Cash
 current_worth += config.cash * total_money / 100.0
